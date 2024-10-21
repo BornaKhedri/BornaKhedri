@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BornaKhedri
-- 👀 I’m interested and have 2+ years of experience in Data Scicence and Exploratory Data Analysis. Plus intermediate familiarity with Machine Learning 
-- 💞️ The languages I use day to day are R, Python, and SQL.
-- 🌱 I’m currently working as a Transportation Engineer & Data Scientist @ Transpo Group
+- 👋 Hi, I’m Borna Khedri
+- 👀 I have 6+ years of experience in Data Science and Machine Learning 
+- 💞️ The languages I use day to day are Python, SQL, and R.
+- 📊 I currently work as a Data Scientist at a Fortune 500 Tech/Retail Company
 - 📫 How to reach me: [Email](mailto:borna.khedri@gmail.com) | [LinkedIn](https://www.linkedin.com/in/borna-khedri)
 
 <!---
